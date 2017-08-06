@@ -1,5 +1,6 @@
 # Intro 
 best-practice for project which using react as view layer and redux as state manager.
+and here is a demo: [人力窝测试解决方案](https://github.com/azl397985856/react-redux-test/blob/master/renliwo-test-practice.md)
 
 # Motivation
 the ideal is that I can represent the condition by the snapshoot collect by anything whatever. for eample, I have a collector
