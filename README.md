@@ -66,3 +66,5 @@ see also : [You Don't Know JS: Async & Performance](https://github.com/getify/Yo
 [enzyme-to-json](https://github.com/adriantoine/enzyme-to-json)
 
 [ant design 测试的发展历程](https://my.oschina.net/wanjubang/blog/1503597)
+
+[react test utilities](https://facebook.github.io/react/docs/test-utils.html#findrendereddomcomponentwithtag)
